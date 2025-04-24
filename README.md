@@ -1,27 +1,21 @@
-# 🌟 Portfolio Website
+# 🌐 Developer Portfolio Website
 
-This is a simple, responsive portfolio website built using **HTML**, **CSS**, and **JavaScript**. It showcases my skills, projects, and contact information in a clean, visually appealing design.
+A clean, responsive HTML-based portfolio to showcase your skills, projects, and resume. Designed with smooth scroll, animations, and modular sections for About, Projects, and Contact.
 
----
+## 🧰 Built With
+- HTML5
+- CSS3
+- JavaScript (optional enhancements)
 
-Features
+## ✨ Features
+- Responsive layout
+- Scroll animations
+- Linked projects and resume
 
-Responsive Design: Optimized for desktop, tablet, and mobile devices.
-Smooth Navigation: Easy scrolling between sections.
-Interactive Elements: Hover effects and clickable project links.
-Modern Aesthetic: Clean and minimal layout using modern web standards.
+## 🚀 How to Use
+1. Clone the repo
+2. Open `index.html` in your browser
+3. Customize the content in HTML sections
 
-
-Technologies Used
-
-HTML5 for structuring content.
-CSS3 for styling and layout (including Flexbox and Grid).
-JavaScript for interactivity.
-GitHub Pages for deployment.
-
-
-How to Run Locally
-
-1. Clone the repository:
-2. bash
-3. git clone https://github.com/your-username/your-repo-name.git
+## 📃 License
+[MIT License](LICENSE)
